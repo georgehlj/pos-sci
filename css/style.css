@@ -1,0 +1,33 @@
+/* line 8, ../scss/style.scss */
+div {
+  display: block;
+}
+/* line 10, ../scss/style.scss */
+div .title {
+  color: red;
+}
+/* line 13, ../scss/style.scss */
+div .section {
+  height: 100vh;
+  background: blue;
+}
+/* line 17, ../scss/style.scss */
+div .section-heading {
+  text-align: center;
+  color: green;
+}
+/* line 21, ../scss/style.scss */
+div .section-subheading {
+  text-align: center;
+  color: yellow;
+}
+
+/* line 26, ../scss/style.scss */
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
+/* line 29, ../scss/style.scss */
+h1 {
+  vertical-align: middle;
+}

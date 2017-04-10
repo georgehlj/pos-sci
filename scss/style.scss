@@ -1,0 +1,31 @@
+$color-1: red;
+$color-2: blue;
+$color-3: green;
+$color-4: yellow;
+
+body{
+}
+div{
+	display: block;
+	.title{
+		color: $color-1;
+	}
+	.section{
+		height: 100vh;
+		background: $color-2;
+	}
+	.section-heading{
+		text-align: center;
+		color: $color-3;
+	}
+	.section-subheading{
+		text-align: center;
+		color: $color-4;
+	}
+}
+h1,h2,h3,h4,h5,h6{
+	text-align: center;
+}
+h1{
+	vertical-align: middle;
+}
